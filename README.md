@@ -11,7 +11,7 @@ Functions that are implemented are: </p>
           <li>cowsay
             <li>rm
               <li>cat
-                <li>frokbomb
+                <li>forkbomb
                   <li>color
 </ul></strong>
 
