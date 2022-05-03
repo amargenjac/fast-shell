@@ -33,3 +33,8 @@ When FastShell is opened, it is possible to run the <strong>help</strong> comman
 
 
 Different functions contain different arguments that can be explored through <strong>h</strong> command.
+## Writing to file
+Functions that have possible outputs to the console, also have possible outputs to .txt file when argument o is passed.
+
+![cow](https://user-images.githubusercontent.com/76213933/166468008-a8c6260b-435d-439f-9cdd-e2ce52e2503c.png)
+
